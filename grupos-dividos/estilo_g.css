@@ -1,0 +1,148 @@
+*{
+    background: rgb(41, 0, 6);
+    color: #fcfcfc;
+}
+.main-title{
+    text-align: center;
+    padding-bottom: 20px;
+    background-color:rgb(41, 0, 6);
+    padding-left: -200px;
+    margin-left: 0;
+    }
+
+    table{
+        border-color: rgb( 175, 2, 48);
+    }
+#container-a {
+    height: 100px;
+    width: 100%;
+    font-size: larger;
+     
+    background-image: url(../Estádios_Catar/imagem/fundo\ site.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position:top;
+
+    
+}
+#container-b {
+    align-items: center;
+    height:auto;
+    width: 100%;
+    background-color: rgb(175, 2, 48);
+    font-size:medium;
+    font-style: oblique;  
+    font-family: Arial, Verdana, Helvetica;
+    margin-top: 10px;
+    
+
+}
+.nav-bar{
+    text-align: center;
+    text-transform: uppercase;
+    display: flex;
+    margin: 0px auto;
+    flex-direction: row;
+    justify-content: center;        
+    align-items: center;
+    border-width: 0px;
+    border-color: rgb( 175, 2, 48);
+    
+}
+
+.nav-bar-table{
+    height: auto;
+    width: 200px;
+    background-size: contain;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.h1, h2{
+    text-decoration-line: underline;
+    text-decoration-color: yellow;
+    text-decoration-style: double;
+}
+#container-c{
+    height: 860px;
+    width: 500px;
+    font-size :small;
+    font-family: Verdana, Tahoma, sans-serif;
+    margin-left: 100px;
+    float: left;
+    font-style:unset;
+    text-align: justify;
+    
+
+    
+}
+#container-d{
+    
+    height: 180px;
+    margin-block-end: 15px;
+    display: block;
+    float: right;
+    width: 400px;
+    margin-top: 70px;
+    margin-right: 100px;
+
+
+
+    
+      
+}
+#paragrafo{
+    float: right;
+    margin-right: 35px;
+    font-size: larger;
+    font-style: oblique;
+
+
+
+}
+
+p {
+    text-indent: 10px;
+    text-align: justify;
+}
+
+footer#rodape {
+    clear: both;
+    position: absolute;
+    border-top: 1px solid #fff;
+    width: 100%;
+    bottom: -2800px;
+    background-color: rgb( 175, 2, 48);
+    margin-left: -10px;
+    
+}
+.rodape{
+    background-color: rgb( 175, 2, 48);
+    text-align: center;
+    padding-left: 10px;
+}
+
+.table{
+    display: flex;
+    margin: 100px auto;
+    flex-direction: row;
+    justify-content: center;        
+    align-items: center;
+    border-width: 0px;
+    border-color: rgb( 175, 2, 48);
+   
+     
+    
+}
+h1, h2, h3{
+    text-align: center;
+
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+th, .th{
+    background-color: rgb( 175, 2, 48);
+}

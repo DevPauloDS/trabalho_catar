@@ -1,0 +1,173 @@
+
+*{
+    background: rgb(41, 0, 6);
+    color: #fcfcfc;
+}
+.main-title{
+    text-align: center;
+    padding-bottom: 20px;
+    background-color:rgb(41, 0, 6);
+    padding-left: -200px;
+    margin-left: 0;
+    }
+
+#container-a {
+    height: 100px;
+    width: 100%;
+    font-size: larger;
+    background-size: auto;
+     
+    background-image: url(../Estádios_Catar/imagem/fundo\ site.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position:top;
+
+    
+}
+#container-b {
+    
+    text-align: center;
+    height:auto;
+    width: 100%;
+    background-color: rgb( 175, 2, 48);
+    font-size:medium;
+    font-style: oblique;  
+    font-family: Arial, Verdana, Helvetica;
+    margin-top: 10px;
+}
+table, th, .back-sub {
+    background-color: rgb(175, 2, 48);}
+
+#container-c{
+    height: 860px;
+    width: 500px;
+    font-size :small;
+    font-family: Verdana, Tahoma, sans-serif;
+    margin-left: 100px;
+    float: left;
+    font-style:unset;
+    text-align: justify;
+    
+
+    
+}
+#container-d{
+    
+    height: 180px;
+    margin-block-end: 15px;
+    display: block;
+    float: right;
+    width: 400px;
+    margin-top: 70px;
+    margin-right: 100px;
+          
+}
+#paragrafo{
+    float: right;
+    margin-right: 35px;
+    font-size: larger;
+    font-style: oblique;
+
+}
+
+p {
+    text-indent: 10px;
+    text-align: justify;
+}
+
+footer#rodape {
+    clear: both;
+    position: absolute;
+    border-top: 1px solid #fff;
+    width: 100%;
+    bottom: -20000px;
+    background-color: rgb( 175, 2, 48);
+}
+.rodape{
+    background-color: rgb( 175, 2, 48);
+}
+
+
+h1, h2, h3,h4, h5, p{
+    text-align: center;
+
+}
+.imagem{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.centro{
+    display: flex;
+    margin: 10px 10px;
+    flex-direction: row;
+    justify-content: center;        
+    align-items: center;
+
+}
+.coluna{
+    display: flex;
+    margin: 10px 50px;
+    flex-direction: column;
+    justify-content: center;        
+    align-items: center;
+
+}
+li{
+    list-style: none;
+}
+h2, h1{
+    margin-left: 4%;
+}
+h3{
+    margin-left: 1%;
+    text-size-adjust: 20px;
+}
+.centro{
+    display: flex;
+    margin: 0px auto;
+    flex-direction: row;
+    justify-content: center;        
+    align-items: center;
+    border-width: 0px;
+    
+}
+a{
+    text-align: center;
+    text-decoration: none;
+
+}
+.back-sub, .nav-bar, th, .nav-bar-table{
+    background-color: rgb( 175, 2, 48);
+}
+
+.nav-bar{
+    text-align: center;
+    text-transform: uppercase;
+    display: flex;
+    margin: 0px auto;
+    flex-direction: row;
+    justify-content: center;        
+    align-items: center;
+    border-width: 0px;
+    border-color: rgb( 175, 2, 48);
+    
+}
+.back-sub{
+    align-items: center;
+align-content: space-between;
+
+}
+.nav-bar-table{
+    height: auto;
+    width: 200px;
+    background-size: contain;
+}
+.topo-a{
+    display: block;
+    float: right;
+    top: 20630px;
+    position: absolute;
+    text-transform: uppercase;
+    
+}
